@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Comic Neue";
+    src: url("./ComicNeueAngular-Regular.woff2") format("woff2"),
+    url("./ComicNeueAngular-Regular.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    background: url("./icon.jpg");
+    font-family: "Comic Neue";
+}
